@@ -1,0 +1,12 @@
+bitcoin
+bottle
+docopt
+ethereum-serpent
+leveldb
+miniupnpc
+pysha3
+pytest
+repoze.lru
+requests
+waitress
+structlog==0.4.2
